@@ -20,9 +20,9 @@ console.log(third2);
 
 //------------------------------------->
 
-var o = {
-  prop: value,
-  target: source,
-};
+// var o = {
+//   prop: value,
+//   target: source,
+// };
 
-var { prop: value, source: target } = p;
+// var { prop: value, source: target } = p;
